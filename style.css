@@ -20,5 +20,26 @@ header.dude hr {
   margin-bottom: 30px;
 }
 header.dude h1{
-  font-size: 4rem;
+  font-size: 5rem;
 }
+
+.btn {
+  font-weight: 800;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.btn-primary {
+  background-color: #000000;
+  border-color: #000000; }
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
